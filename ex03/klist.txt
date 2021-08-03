@@ -1,0 +1,7 @@
+        Principal: kmatsush@42TOKYO.JP
+
+
+
+		  Issued                Expires             Flags    Principal
+
+		  Aug  3 12:16:22 2021  Aug  3 22:16:22 2021  FPIA   krbtgt/42TOKYO.JP@42TOKYO.JP
